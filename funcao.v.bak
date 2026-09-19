@@ -1,0 +1,6 @@
+module funcao(
+	input [7:0]A,B,C,X,
+	output Y
+);
+
+endmodule 

@@ -1,19 +1,19 @@
 module termoprimeirograu(
-	input [7:0]X, // em sinal magnitude
-	input [7:0]B,
-	output [15:0]S // em complemento de 2
+	input [7:0]X, // em complemento de 2
+	output [15:0]S
 
 );
 
+	wire [7:0]xabsoluto;
 	wire [15:0]produto;
 	wire nSinal;
-	xor resultadosinal(Sinal, X[7], B[7]);
+	xor resultadosinal(Sinal, X[7], 1'b1);
 
 	
 	
 	multiplicador fazerproduto(
 		.Asing(X),
-		.Bsing(B),
+		.Bsing(8'b00000101),
 		.P(produto)
 	);
 	

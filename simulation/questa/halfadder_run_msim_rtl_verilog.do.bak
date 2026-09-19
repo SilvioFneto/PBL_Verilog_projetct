@@ -1,0 +1,14 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v}
+

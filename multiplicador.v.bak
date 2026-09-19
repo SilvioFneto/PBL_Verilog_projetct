@@ -1,14 +1,32 @@
 module multiplicador ( // multiplica numeros sem sinais apenas
-    input [7:0] A,
-    input [7:0] B,
+    input [7:0] Asing,
+    input [7:0] Bsing,
     output [15:0] P
 
 );
 
     wire [15:0] pp0, pp1, pp2, pp3, pp4, pp5, pp6, pp7; // parcelas da multipicacao ex(a0*(b0b1b2b3...))
     wire [15:0]soma0,soma1, soma2, soma3, soma4, soma5; // fios para guardar as parcelas  somas intermediarias
+	 wire [7:0] A,B; 
+	
+
+	
+	 complementodedois8bits abs_a (
+		.X(Asing),
+		.S(A)
+	 );
+	 
+	 complementodedois8bits abs_b (
+		.X(Bsing), 
+		.S(B)
+	 );
 	 
 
+	 
+	 
+	 
+	 
+	 
     
     // A * B[0]
     and (pp0[0],  A[0], B[0]);
