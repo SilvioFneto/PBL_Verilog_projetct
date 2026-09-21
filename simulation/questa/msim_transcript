@@ -25,129 +25,110 @@
 # Copying C:/altera_lite/25.1std/questa_fse/win64/../modelsim.ini to modelsim.ini
 # Modifying modelsim.ini
 # 
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v}
+# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v}
 # Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:56 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v 
+# Start time: 00:44:34 on Sep 21,2026
+# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v 
 # ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module halfadder
+# -- Compiling module Main
 # 
 # Top level modules:
-# 	halfadder
-# End time: 16:26:56 on Sep 19,2026, Elapsed time: 0:00:00
+# 	Main
+# End time: 00:44:34 on Sep 21,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v}
+# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v}
 # Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:56 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v 
+# Start time: 00:44:34 on Sep 21,2026
+# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v 
 # ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module fulladder
+# -- Compiling module flipflop_D
 # 
 # Top level modules:
-# 	fulladder
-# End time: 16:26:56 on Sep 19,2026, Elapsed time: 0:00:00
+# 	flipflop_D
+# End time: 00:44:34 on Sep 21,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v}
+# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v}
 # Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:57 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v 
+# Start time: 00:44:35 on Sep 21,2026
+# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v 
 # ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module fourbitsadder
+# -- Compiling module registrador_8bits
 # 
 # Top level modules:
-# 	fourbitsadder
-# End time: 16:26:57 on Sep 19,2026, Elapsed time: 0:00:00
+# 	registrador_8bits
+# End time: 00:44:35 on Sep 21,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v}
+# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v}
 # Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:57 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v 
+# Start time: 00:44:35 on Sep 21,2026
+# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v 
 # ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module eightbitsadder
+# -- Compiling module contador
 # 
 # Top level modules:
-# 	eightbitsadder
-# End time: 16:26:57 on Sep 19,2026, Elapsed time: 0:00:00
+# 	contador
+# End time: 00:44:35 on Sep 21,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v}
+# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v}
 # Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:57 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v 
+# Start time: 00:44:35 on Sep 21,2026
+# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v 
 # ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module somador16bits
+# -- Compiling module registrador
 # 
 # Top level modules:
-# 	somador16bits
-# End time: 16:26:57 on Sep 19,2026, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v}
-# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:57 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v 
-# ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module multiplicador
-# 
-# Top level modules:
-# 	multiplicador
-# End time: 16:26:57 on Sep 19,2026, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v}
-# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:57 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v 
-# ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module complementodedois16bits
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v(33): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
-# 
-# Top level modules:
-# 	complementodedois16bits
-# End time: 16:26:57 on Sep 19,2026, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 1
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v}
-# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:58 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v 
-# ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module funcao
-# 
-# Top level modules:
-# 	funcao
-# End time: 16:26:58 on Sep 19,2026, Elapsed time: 0:00:00
-# Errors: 0, Warnings: 0
-# vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v}
-# Questa Altera Starter FPGA Edition-64 vlog 2025.2 Compiler 2025.05 May 31 2025
-# Start time: 16:26:58 on Sep 19,2026
-# vlog -reportprogress 300 -work work "+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto" C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v 
-# ** Note: (vlog-220) 'modelsim.ini' is used as the ini file.
-# -- Compiling module complementodedois24bits
-# 
-# Top level modules:
-# 	complementodedois24bits
-# End time: 16:26:58 on Sep 19,2026, Elapsed time: 0:00:00
+# 	registrador
+# End time: 00:44:35 on Sep 21,2026, Elapsed time: 0:00:00
 # Errors: 0, Warnings: 0
 # 
-vsim work.funcao
+vsim work.Main
 # ** Note: (vsim-220) 'modelsim.ini' is used as the ini file.
-# vsim work.funcao 
-# Start time: 16:27:02 on Sep 19,2026
+# vsim work.Main 
+# Start time: 00:44:41 on Sep 21,2026
 # ** Note: (vsim-3812) Design is being optimized...
 # ** Note: (vopt-220) 'modelsim.ini' is used as the ini file.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v(30): (vopt-2241) Connection width does not match width of port 'B'. The port definition is at: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v(3).
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v(42): (vopt-2685) [TFMPC] - Too few port connections for 'soma_alta'.  Expected 5, found 4.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v(42): (vopt-2718) [TFMPC] - Missing connection for port 'Co'.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v(30): (vopt-2685) [TFMPC] - Too few port connections for 'somador'.  Expected 5, found 4.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v(30): (vopt-2718) [TFMPC] - Missing connection for port 'Co'.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v(107): (vopt-2685) [TFMPC] - Too few port connections for 's_p2_alta'.  Expected 5, found 4.
-# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v(107): (vopt-2718) [TFMPC] - Missing connection for port 'Co'.
-# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=7.
-# Loading work.funcao(fast)
-wave create -driver freeze -pattern constant -value 00000001 -range 7 0 -starttime 0ns -endtime 1000ns sim:/funcao/A
-# Editable Wave items are not compatible with the wave window's standard undo-redo.  Standard undo-redo has been disabled.
-wave create -driver freeze -pattern constant -value 10000101 -range 7 0 -starttime 0ns -endtime 1000ns sim:/funcao/B
-wave create -driver freeze -pattern constant -value 00000110 -range 7 0 -starttime 0ns -endtime 1000ns sim:/funcao/C
-wave create -driver freeze -pattern counter -startvalue 00000000 -endvalue 11111111 -type Range -direction Up -period 50ns -step 1 -repeat 1 -range 7 0 -starttime 0ns -endtime 1000ns sim:/funcao/X
-add wave -position end  sim:/funcao/Y
-run -all
-# End time: 16:30:38 on Sep 19,2026, Elapsed time: 0:03:36
-# Errors: 0, Warnings: 7
-wave editwrite -file C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/multiplicador.do
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v(10): (vopt-2685) [TFMPC] - Too few port connections for 'ff0'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v(10): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v(11): (vopt-2685) [TFMPC] - Too few port connections for 'ff1'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v(11): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(6): (vopt-2685) [TFMPC] - Too few port connections for 'ff0'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(6): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(7): (vopt-2685) [TFMPC] - Too few port connections for 'ff1'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(7): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(8): (vopt-2685) [TFMPC] - Too few port connections for 'ff2'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(8): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(9): (vopt-2685) [TFMPC] - Too few port connections for 'ff3'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(9): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(10): (vopt-2685) [TFMPC] - Too few port connections for 'ff4'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(10): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(11): (vopt-2685) [TFMPC] - Too few port connections for 'ff5'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(11): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(12): (vopt-2685) [TFMPC] - Too few port connections for 'ff6'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(12): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(13): (vopt-2685) [TFMPC] - Too few port connections for 'ff7'.  Expected 5, found 4.
+# ** Warning: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v(13): (vopt-2718) [TFMPC] - Missing connection for port 'q_bar'.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=20.
+# Loading work.Main(fast)
+run
+add wave -position end  sim:/Main/btn1
+add wave -position end  sim:/Main/btn2
+add wave -position end  sim:/Main/X
+add wave -position end  sim:/Main/A
+add wave -position end  sim:/Main/B
+add wave -position end  sim:/Main/C
+add wave -position 0  sim:/Main/S
+run
+# A bookmark named "bookmark0" has been added for window "Wave"
+vsim work.Main
+# Bookmarks have been exported for window "Wave" to: C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/bookmarks.do
+# End time: 00:48:34 on Sep 21,2026, Elapsed time: 0:03:53
+# Errors: 0, Warnings: 20
+# ** Note: (vsim-220) 'modelsim.ini' is used as the ini file.
+# vsim work.Main 
+# Start time: 00:48:34 on Sep 21,2026
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading work.Main(fast)
+# A bookmarks file was found in the current directory with 1 bookmark
+# Bookmark(s) were restored for window "Wave"
+# End time: 00:49:04 on Sep 21,2026, Elapsed time: 0:00:30
+# Errors: 0, Warnings: 0

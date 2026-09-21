@@ -1,0 +1,11 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v}
+vlog  -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto {C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v}
+

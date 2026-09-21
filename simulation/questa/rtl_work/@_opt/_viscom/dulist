@@ -1,9 +1,5 @@
-1 9 halfadder 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 0 0 16 0
-1 9 fulladder 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 0 0 59 0
-1 13 fourbitsadder 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 0 0 273 0
-1 14 eightbitsadder 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 0 0 569 0
-1 13 somador16bits 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 131072 0 1161 0
-1 13 multiplicador 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 917504 0 8651 0
-1 23 complementodedois24bits 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 131072 0 1851 0
-1 23 complementodedois16bits 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 131072 0 1240 0
-1 6 funcao 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 4767744 0 46746 0
+1 10 flipflop_D 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 180224 0 26 0
+1 8 contador 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 360448 0 83 0
+1 17 registrador_8bits 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 1442816 0 256 0
+1 11 registrador 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 4688896 0 920 0
+1 4 Main 4 fast 84 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa/rtl_work 0 0 4688896 0 942 0

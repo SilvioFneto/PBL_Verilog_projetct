@@ -2,4 +2,76 @@
 Timing Analyzer Summary
 ------------------------------------------------------------
 
+Type  : Slow 1200mV 85C Model Setup 'btn1'
+Slack : -2.045
+TNS   : -2.045
+
+Type  : Slow 1200mV 85C Model Setup 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.278
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'btn1'
+Slack : 1.852
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'btn1'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : -1.403
+TNS   : -35.075
+
+Type  : Slow 1200mV 0C Model Setup 'btn1'
+Slack : -1.794
+TNS   : -1.794
+
+Type  : Slow 1200mV 0C Model Setup 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.354
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'btn1'
+Slack : 1.657
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'btn1'
+Slack : -3.000
+TNS   : -38.075
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : -1.403
+TNS   : -35.075
+
+Type  : Fast 1200mV 0C Model Setup 'btn1'
+Slack : -0.491
+TNS   : -0.491
+
+Type  : Fast 1200mV 0C Model Setup 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.673
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'btn1'
+Slack : 0.661
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'btn1'
+Slack : -3.000
+TNS   : -31.255
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'registrador:regis|contador:cc|flipflop_D:ff0|q'
+Slack : -1.000
+TNS   : -25.000
+
 ------------------------------------------------------------

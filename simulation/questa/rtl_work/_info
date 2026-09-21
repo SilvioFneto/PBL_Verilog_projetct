@@ -14,232 +14,138 @@ Z1 dC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/simulation/questa
 T_opt
 !i145 1
 !i144 0
-!s110 1789846023
-V]]VZ`=X<9G82n`=HVljm[1
-04 6 4 work funcao fast 0
-=1-ffffffff-6aaee206-21d-4bb4
+!s110 1789962282
+V?Mh]Yf]WcL=`c3J>>oS8o3
+04 4 4 work Main fast 0
+=1-ffffffff-6ab0a829-3e0-66c
 R0
 !s12f OEM100
 !s12b OEM100
-!s124 OEM10U2096 
+!s124 OEM10U32 
 !s135 nogc
 o-quiet -auto_acc_if_foreign -work work
 tCvgOpt 0 defaultOptions 1107585188
 n@_opt
 OL;O;2025.2;82
-vcomplementodedois16bits
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v
-Z2 !s110 1789846017
+vcontador
+2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v
+Z2 !s110 1789962275
 !i10b 1
-!s100 YG7AFNdQdI^Q4M2U]a^Xb1
-IOcPK@>:Mae4ke:fGG5j[M0
+!s100 <SSaQ_UVPL5H^7MeN4`ih1
+ICA^eB@S;K=GzD8f:2RFU52
 R1
-w1788011943
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v
-!i122 6
-L0 1 39
-Z3 VDg1SIo80bB@j0V0VzS_@n1
-Z4 OL;L;2025.2;82
-r1
-!s85 0
-31
-Z5 !s108 1789846017.000000
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois16bits.v|
-!i113 0
-Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z7 !s92 -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-Z8 tCvgOpt 0 defaultOptions 1085333592
-vcomplementodedois24bits
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v
-Z9 !s110 1789846018
-!i10b 1
-!s100 XKMIoAXhHPzf1m7zGlfcW0
-I]c436e?Oa<ZfkM3RD?EdS3
-R1
-w1789843269
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v
-!i122 8
-L0 1 50
-R3
-R4
-r1
-!s85 0
-31
-Z10 !s108 1789846018.000000
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/complementodedois24bits.v|
-!i113 0
-R6
-R7
-R8
-veightbitsadder
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v
-R2
-!i10b 1
-!s100 iF=5S:L6LP7j7hd4I`HMG3
-IhZL5m>@C<A3KgdPA2>8U>2
-R1
-w1787354367
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v
+w1789959504
+8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v
+FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v
 !i122 3
-L0 1 30
-R3
-R4
+Z3 L0 1 12
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2025.2;82
 r1
 !s85 0
 31
-R5
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/eightbitsadder.v|
+Z6 !s108 1789962275.000000
+!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/contador.v|
 !i113 0
-R6
-R7
-R8
-vfourbitsadder
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v
-R2
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 !s92 -work work +incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 tCvgOpt 0 defaultOptions 1085333592
+vflipflop_D
+2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v
+Z10 !s110 1789962274
 !i10b 1
-!s100 ULdLM[>;o=^NBaENajK891
-IAoiV_1K8Uc;;G1Z0E;jK:3
+!s100 >Zj[?_XSGN;V3=ng2MgV>3
+I7foBA@W3;TTYg[I<`7S:=1
 R1
-w1787354347
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v
-!i122 2
-L0 1 43
-R3
-R4
-r1
-!s85 0
-31
-R5
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fourbitsadder.v|
-!i113 0
-R6
-R7
-R8
-vfulladder
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v
-Z11 !s110 1789846016
-!i10b 1
-!s100 bSh:9TST3of0Hmic0a5^53
-IRX>Ta1?jOeT>D<iH[^WVF0
-R1
-w1787353616
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v
+w1789959491
+8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v
+FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v
 !i122 1
-L0 1 27
 R3
 R4
-r1
-!s85 0
-31
-Z12 !s108 1789846016.000000
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/fulladder.v|
-!i113 0
-R6
-R7
-R8
-vfuncao
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v
-R9
-!i10b 1
-!s100 a=eJ8]OPPG2[]=F6<GfRg3
-I>DN6IlHA^0f[z3Fm<oA3a0
-R1
-w1789845945
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v
-!i122 7
-L0 1 123
-R3
-R4
-r1
-!s85 0
-31
-R10
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/funcao.v|
-!i113 0
-R6
-R7
-R8
-vhalfadder
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v
-R11
-!i10b 1
-!s100 RT_EbihY1EGU7GbO3I]563
-IS[d[enF?5`cYAWAmBl^2m1
-R1
-w1787281927
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v
-!i122 0
-L0 1 11
-R3
-R4
-r1
-!s85 0
-31
-R12
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/halfadder.v|
-!i113 0
-R6
-R7
-R8
-vmultiplicador
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v
-R2
-!i10b 1
-!s100 iISgg`i65g6HTGI2afgn<2
-I`I]=GSki;O^YeUIe?M0U70
-R1
-w1789845251
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v
-!i122 5
-L0 1 221
-R3
-R4
-r1
-!s85 0
-31
 R5
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/multiplicador.v|
+r1
+!s85 0
+31
+Z11 !s108 1789962274.000000
+!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/flipflop_D.v|
 !i113 0
-R6
 R7
 R8
-vsomador16bits
-2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v
+R9
+nflipflop_@d
+vMain
+2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v
+R10
+!i10b 1
+!s100 [PXX_^6Oz@U]L56YHehb93
+I<cgf]8TRL_Z?MHgT=e8?I3
+R1
+w1789959522
+8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v
+FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v
+!i122 0
+Z12 L0 1 14
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/Main.v|
+!i113 0
+R7
+R8
+R9
+n@main
+vregistrador
+2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v
 R2
 !i10b 1
-!s100 1[kiAHSD5BDBHL12IA3le1
-IiZ99f:k_U]zF0_3lICfbF2
+!s100 48a?5gz5OV[Rn:WDI<Ic:2
+I;_UnKGoQPUzzPlGFdnTHK1
 R1
-w1787442472
-8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v
-FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v
+w1789959511
+8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v
+FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v
 !i122 4
 L0 1 25
-R3
 R4
+R5
 r1
 !s85 0
 31
-R5
-!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v|
-!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/somador16bits.v|
-!i113 0
 R6
+!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador.v|
+!i113 0
 R7
 R8
+R9
+vregistrador_8bits
+2C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v
+R2
+!i10b 1
+!s100 PTCP_]S9d9aG@ig7b9=Ok0
+IeLSzlNd=b[k0_zCXWQPfz0
+R1
+w1789959498
+8C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v
+FC:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v
+!i122 2
+R12
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v|
+!s90 -reportprogress|300|-work|work|+incdir+C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto|C:/Users/Tatiane/Documents/Eletronica/PBL-CD/PBL2/projeto/registrador_8bits.v|
+!i113 0
+R7
+R8
+R9
