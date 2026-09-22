@@ -9,33 +9,57 @@ module Mux_esclr_var(
 	);
 	
 	wire [2:0] clk;
+	wire [7:0] Qa,Qb, Qc;
 	wire [1:0] n_contador;
 	not (n_contador[1],contador[1]);
 	not (n_contador[0],contador[0]);
 	
 	
-	and (clk[0],contador[1],contador[0],clk_btn);
-	and (clk[1],contador[1],n_contador[0],clk_btn);
-	and (clk[2],n_contador[1],contador[0],clk_btn);
+	and (seA,n_contador[1],n_contador[0]);
+	and (seB,n_contador[1],contador[0]);
+	and (seC,contador[1],n_contador[0]);
+	
+	Mux_manter_valor muxA (
+        .q_own(A),
+        .X(var),
+        .load(seA),
+        .valor_var(Qa)
+    );
+	 
+	 Mux_manter_valor muxB (
+        .q_own(B),
+        .X(var),
+        .load(seB),
+        .valor_var(Qb)
+    );
+	 Mux_manter_valor muxC (
+        .q_own(C),
+        .X(var),
+        .load(seC),
+        .valor_var(Qc)
+    );
 	
 	
 	registrador_8bits regA(
-	.clk(clk[0]),
+	.clk(clk_btn),
 	.reset(reset),
-	.entrada_d(var),
+	.entrada_d(Qa),
 	.saida_q(A)
 	);
 	
 	registrador_8bits regB(
-	.clk(clk[1]),
+	.clk(clk_btn),
 	.reset(reset),
-	.entrada_d(var),
+	.entrada_d(Qb),
 	.saida_q(B)
 	);
 	
 	registrador_8bits regC(
-	.clk(clk[2]),
-	.reset(reset),
-	.entrada_d(var),
-	.saida_q(C)
+		.clk(clk_btn),
+		.reset(reset),
+		.entrada_d(Qc),
+		.saida_q(C)
 	);
+	
+	
+endmodule
